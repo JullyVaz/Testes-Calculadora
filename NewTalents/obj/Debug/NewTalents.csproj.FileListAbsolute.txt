@@ -1,0 +1,8 @@
+C:\Projetos\NewTalents\NewTalents\bin\Debug\NewTalents.exe.config
+C:\Projetos\NewTalents\NewTalents\bin\Debug\NewTalents.exe
+C:\Projetos\NewTalents\NewTalents\bin\Debug\NewTalents.pdb
+C:\Projetos\NewTalents\NewTalents\obj\Debug\NewTalents.csproj.AssemblyReference.cache
+C:\Projetos\NewTalents\NewTalents\obj\Debug\NewTalents.csproj.CoreCompileInputs.cache
+C:\Projetos\NewTalents\NewTalents\obj\Debug\NewTalents.exe
+C:\Projetos\NewTalents\NewTalents\obj\Debug\NewTalents.pdb
+C:\Projetos\NewTalents\NewTalents\obj\Debug\NewTalents.csproj.SuggestedBindingRedirects.cache
